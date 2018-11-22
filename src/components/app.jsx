@@ -1,4 +1,8 @@
 import React, { Component } from 'react';
+import FlatMap from './flat_map.jsx';
+import Marker from './marker.jsx';
+import Flat from './flat.jsx';
+import FlatList from './flat_list.jsx';
 
 class App extends Component {
   render() {
